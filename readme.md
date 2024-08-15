@@ -1,6 +1,6 @@
 # Background-Creator
 
-**Background-Creator** is a project that allows you to create a wallpaper (background) in SVG format with customizable color and size. You can choose the fill color as well as the dimensions of the SVG.
+Background-Creator is a project that allows you to create a wallpaper (background) in SVG format with customizable color and size. You can choose the fill color as well as the dimensions of the SVG.
 
 ![](https://cdn-icons-png.flaticon.com/512/2071/2071669.png)
 
